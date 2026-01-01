@@ -10,6 +10,4 @@ Curated list of Indian Parliament (Lok Sabha) and Legislative Assembly (Vidhan S
  
  * ### Dedicated websites for election results analysis
    * [elections.in](https://www.elections.in) - Current and past elections up to date results and analysis
-   * [electionslive.in](https://www.electionslive.in) - Lok Sabha and Vidhan Sabha elections result dashboard
-   * [electionadmin.in](https://www.electionadmin.in) - Results of current and past lok sabha and vidhan sabha elections with detailed analysis through maps & charts 
    * [electionsinindia.com](https://www.electionsinindia.com) - Archive of current and past elections with other useful information
